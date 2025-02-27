@@ -5,7 +5,7 @@ The name ***kik*** does not stand for anything really and it was chosen due to e
 
 The goal is simple, let's make copying from the terminal great again.
 # INSTALLATION
-To install kik, simply download the script ***kik.sh*** and make a shortcut link available to your path, so you can use it from anywhere by simply typing 'kik' (that's kind of the point actually, so make sure you do that part!). 
+To install kik, simply download the script ***kik.sh*** and make a shortcut link available to your path, so you can use it from anywhere by simply typing 'kik'. That's kind of the point actually, so make sure you do that part!
 # USAGE
 There are two use cases for kik:
 ## Copying file contents
